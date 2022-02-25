@@ -1,0 +1,87 @@
+2022-02-24 21:55:30,483 INFO this is a start of my code and i am try to enter iris.csv
+2022-02-24 21:56:53,861 INFO this is a start of my code and i am try to upload iris.csv to mongodb
+2022-02-24 21:58:03,373 INFO this is a start of my code and i am try to upload iris.csv to mongodb
+2022-02-24 22:00:01,773 INFO this is a start of my code and i am try to upload iris.csv to mongodb
+2022-02-24 22:05:50,327 INFO this is a start of my code and i am try to upload iris.csv to mongodb
+2022-02-24 22:07:55,439 INFO this is a start of my code and i am try to upload iris.csv to mongodb
+2022-02-24 22:08:53,875 DEBUG pickle loaded: C:\ProgramData\Anaconda3\lib\site-packages\jedi\third_party\typeshed\stdlib\2and3\builtins.pyi
+2022-02-24 22:08:53,979 DEBUG pickle loaded: C:\ProgramData\Anaconda3\lib\site-packages\jedi\third_party\typeshed\stdlib\3\sys.pyi
+2022-02-24 22:09:36,479 DEBUG diff parser start
+2022-02-24 22:09:36,487 DEBUG line_lengths old: 54; new: 7
+2022-02-24 22:09:36,487 DEBUG -> code[equal] old[1:6] new[1:6]
+2022-02-24 22:09:36,487 DEBUG copy old[1:6] new[1:6]
+2022-02-24 22:09:36,487 DEBUG -> code[replace] old[7:54] new[7:7]
+2022-02-24 22:09:36,487 DEBUG parse_part from 7 to 7 (to 6 in part parser)
+2022-02-24 22:09:36,487 DEBUG diff parser end
+2022-02-24 22:10:03,115 INFO this is a start of my code and i am try to upload iris.csv to mongodb
+2022-02-24 22:13:13,499 INFO this is a start of my code and i am try to upload iris.csv to mongodb
+2022-02-24 22:17:29,227 INFO this is a start of my code and i am try to upload iris.csv to mongodb
+2022-02-24 22:18:27,259 INFO this is a start of my code and i am try to upload iris.csv to mongodb
+2022-02-24 22:19:38,291 INFO this is a start of my code and i am try to upload iris.csv to mongodb
+2022-02-24 22:19:50,547 ERROR Error has happend 
+2022-02-24 22:19:50,547 ERROR Exception occured 'int' object is not callable
+Traceback (most recent call last):
+  File "C:\Users\User\AppData\Local\Temp/ipykernel_11456/3618896162.py", line 53, in csv_file_to_db
+    logging.INFO("execution success")
+TypeError: 'int' object is not callable
+2022-02-24 22:20:42,507 INFO this is a start of my code and i am try to upload iris.csv to mongodb
+2022-02-24 22:22:03,035 INFO this is a start of my code and i am try to upload iris.csv to mongodb
+2022-02-24 22:24:12,128 INFO this is a start of my code and i am try to upload iris.csv to mongodb
+2022-02-24 22:26:41,263 INFO this is a start of my code and i am try to upload iris.csv to mongodb
+2022-02-24 22:27:40,633 INFO this is a start of my code and i am try to upload iris.csv to mongodb
+2022-02-24 22:32:58,999 DEBUG pickle loaded: C:\ProgramData\Anaconda3\lib\site-packages\jedi\third_party\typeshed\stdlib\2and3\builtins.pyi
+2022-02-24 22:32:59,087 DEBUG pickle loaded: C:\ProgramData\Anaconda3\lib\site-packages\jedi\third_party\typeshed\stdlib\3\sys.pyi
+2022-02-24 22:33:01,663 DEBUG diff parser start
+2022-02-24 22:33:01,663 DEBUG line_lengths old: 1; new: 1
+2022-02-24 22:33:01,663 DEBUG -> code[replace] old[1:1] new[1:1]
+2022-02-24 22:33:01,671 DEBUG parse_part from 1 to 1 (to 0 in part parser)
+2022-02-24 22:33:01,671 DEBUG diff parser end
+2022-02-24 22:33:30,735 INFO This is a start of Collection_Existence_Check code and try to check the existence of collection name Carbon
+2022-02-24 22:34:11,755 DEBUG diff parser start
+2022-02-24 22:34:11,763 DEBUG line_lengths old: 1; new: 56
+2022-02-24 22:34:11,763 DEBUG -> code[replace] old[1:1] new[1:56]
+2022-02-24 22:34:11,787 DEBUG parse_part from 1 to 56 (to 55 in part parser)
+2022-02-24 22:34:11,795 DEBUG diff parser end
+2022-02-24 22:34:11,875 DEBUG pickle loaded: C:\ProgramData\Anaconda3\lib\logging\__init__.py
+2022-02-24 22:34:11,915 DEBUG pickle loaded: C:\ProgramData\Anaconda3\lib\site-packages\jedi\third_party\typeshed\stdlib\2and3\logging\__init__.pyi
+2022-02-24 22:34:24,956 DEBUG diff parser start
+2022-02-24 22:34:24,956 DEBUG line_lengths old: 56; new: 40
+2022-02-24 22:34:24,956 DEBUG -> code[equal] old[1:39] new[1:39]
+2022-02-24 22:34:24,956 DEBUG copy old[1:55] new[1:29]
+2022-02-24 22:34:24,972 DEBUG parse_part from 30 to 40 (to 39 in part parser)
+2022-02-24 22:34:24,972 DEBUG -> code[replace] old[40:56] new[40:40]
+2022-02-24 22:34:24,972 DEBUG diff parser end
+2022-02-24 22:34:34,729 INFO This is a start of Collection_Existence_Check code and try to check the existence of collection name Carbon
+2022-02-24 22:38:14,898 INFO This is a start of Collection_Existence_Check code and try to check the existence of collection name Carbon
+2022-02-24 22:38:20,757 INFO This is a start of Collection_Existence_Check code and try to check the existence of collection name Carbon
+2022-02-24 22:40:20,765 INFO this is a start of my code and i am try to upload iris.csv to mongodb
+2022-02-24 22:40:57,860 INFO this is a start of my code and i am try to upload iris.csv to mongodb
+2022-02-24 22:42:46,988 DEBUG diff parser start
+2022-02-24 22:42:46,998 DEBUG line_lengths old: 40; new: 1
+2022-02-24 22:42:46,998 DEBUG -> code[replace] old[1:40] new[1:1]
+2022-02-24 22:42:46,998 DEBUG parse_part from 1 to 1 (to 0 in part parser)
+2022-02-24 22:42:46,998 DEBUG diff parser end
+2022-02-24 22:51:22,903 DEBUG diff parser start
+2022-02-24 22:51:22,903 DEBUG line_lengths old: 1; new: 1
+2022-02-24 22:51:22,903 DEBUG -> code[replace] old[1:1] new[1:1]
+2022-02-24 22:51:22,903 DEBUG parse_part from 1 to 1 (to 0 in part parser)
+2022-02-24 22:51:22,903 DEBUG diff parser end
+2022-02-25 12:47:52,457 INFO this is a start of my code and i am try to upload carbon_nanotubes.csv to mongodb
+2022-02-25 14:51:33,802 INFO This is a start of Collection_Existence_Check code and try to check the existence of collection name CARBON_NANOTUBE_DATA
+2022-02-25 14:51:51,118 DEBUG pickle loaded: C:\ProgramData\Anaconda3\lib\site-packages\jedi\third_party\typeshed\stdlib\2and3\builtins.pyi
+2022-02-25 14:51:51,214 DEBUG pickle loaded: C:\ProgramData\Anaconda3\lib\site-packages\jedi\third_party\typeshed\stdlib\3\sys.pyi
+2022-02-25 14:52:38,173 INFO This is a start of Database_Existence_Check code and try to check the existence of database name Assignment
+2022-02-25 14:52:38,174 ERROR Error has happend 
+2022-02-25 14:52:38,174 ERROR Exception occured 'str' object has no attribute 'list_database_names'
+Traceback (most recent call last):
+  File "C:\Users\User\AppData\Local\Temp/ipykernel_2200/136447747.py", line 17, in Database_Existence_Check
+    DBlist = client.list_database_names()
+AttributeError: 'str' object has no attribute 'list_database_names'
+2022-02-25 14:52:45,668 INFO This is a start of Database_Existence_Check code and try to check the existence of database name Assignment
+2022-02-25 14:52:45,669 ERROR Error has happend 
+2022-02-25 14:52:45,670 ERROR Exception occured 'str' object has no attribute 'list_database_names'
+Traceback (most recent call last):
+  File "C:\Users\User\AppData\Local\Temp/ipykernel_2200/136447747.py", line 17, in Database_Existence_Check
+    DBlist = client.list_database_names()
+AttributeError: 'str' object has no attribute 'list_database_names'
+2022-02-25 14:52:53,683 INFO This is a start of Database_Existence_Check code and try to check the existence of database name Assignment
